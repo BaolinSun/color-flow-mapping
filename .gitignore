@@ -18,8 +18,9 @@ Desktop.ini
 
 # custom
 /rfdata*
-/sim_flow*
 /usimage*
 /usvideo*
 /rawdata
 *.mp4
+
+sim_flow/
